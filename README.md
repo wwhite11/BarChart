@@ -1,1 +1,1 @@
-# BarChart
+# D3 BarChart
